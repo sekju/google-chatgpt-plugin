@@ -9,7 +9,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "http://localhost:5000/.well-known/openapi.yaml",
+    "url": "https://googlesearch-chatgpt/.well-known/openapi.yaml",
     "has_user_authentication": false
   },
   "logo_url": "http://localhost:5000/.well-known/icon.png",
